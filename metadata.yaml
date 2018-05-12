@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24888#Gunnar-et-Nialsc-nes-et-moeurs-de-la-vieille-Islande
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-03-21'
 gutenberg_type: Text
