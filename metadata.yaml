@@ -1,0 +1,31 @@
+_repo: Gunnar-et-Nialsc-nes-et-moeurs-de-la-vieille-Islande_24888
+_version: 0.1.0
+alternative_title: Njáls saga. French
+contributor:
+  translator:
+    agent_name: Gourdault, J. (Jules)
+    alias: Gourdault, Jules
+    birthdate: 1838
+    gutenberg_agent_id: '26795'
+    url: http://www.gutenberg.org/2009/agents/26795
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24888'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Iceland'
+- !lcsh 'Sagas -- Translations into French'
+- !lcc 'PT'
+title: 'Gunnar et Nial
+
+  scènes et moeurs de la vieille Islande'
+url: http://www.gutenberg.org/ebooks/24888
